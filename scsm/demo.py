@@ -3,7 +3,7 @@ from SCSM.exception import SCSMException
 import sys
 
 try:
-    print('Changes done!')
+    print('Changes done!jkk')
     a = 1 / "10"
 except Exception as e:
     logging.info(e)
